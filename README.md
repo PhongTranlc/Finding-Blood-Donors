@@ -28,7 +28,7 @@ Predicting if a donor will donate blood in the future can help in finding blood 
 
 ## Results<a name="results"></a>
 
-Blood donation is significant for saving lives of people who lost large amounts of blood. An accurate prediction of the future supply of blood help to take the right action to save people lives. In this project, I created different classification models to predict whether or not a blood donor will give blood in future. Then, I used parameter tuning to improve the models. Random forest classification algorithm gave the best accuracy (81%). 
+Blood donation is significant for saving lives of people who lost large amounts of blood. An accurate prediction of the future supply of blood help to take the right action to save people lives. In this project, I created different classification models to predict whether or not a blood donor will give blood in future. Then, I used parameter tuning to improve the models. Random forest classification algorithm gave the best accuracy (78%). 
 
 ## Licensing <a name="licensing"></a>
 The dataset is avilable in [UCI Machine Learning Repository](archive.ics.uci.edu/ml/datasets/Blood+Transfusion+Service+Center) website. 
